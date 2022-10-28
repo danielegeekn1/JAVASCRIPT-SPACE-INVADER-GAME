@@ -1,0 +1,26 @@
+.flex {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex div {
+  width: 20px;
+  height: 20px;
+}
+.invader {
+  background-color: rgb(221, 95, 221);
+  border-radius: 10px;
+}
+.shooter {
+  background-color: rgb(144, 240, 144);
+  /*border-radius: 10px;*/
+}
+.laser {
+  background-color: orangered;
+}
+
+.boom {
+  background-color: red;
+}
